@@ -1,0 +1,19 @@
+{
+  "dataset_source": "osm+synthetic",
+  "n": 161,
+  "occupied_blocks": 87,
+  "nearest_results_equal": true,
+  "brute_force_seconds_per_pass": 0.005570344999432564,
+  "zone_index_seconds_per_pass": 0.00011603999882936478,
+  "filter_benchmark": {
+    "n": 161,
+    "repeats": 30,
+    "bitmap_seconds": 4.433334106579423e-06,
+    "python_set_seconds": 0.0008782533327272783,
+    "results_equal": true,
+    "backend": "pyroaring.BitMap"
+  },
+  "coverage_grid_coarse_s": 0.30372603334641707,
+  "coverage_grid_fine_s": 1.2118889666550483,
+  "notes": "Wall-clock on this machine; not a claim of asymptotic O(log n)."
+}
