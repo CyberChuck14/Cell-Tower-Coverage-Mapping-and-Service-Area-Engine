@@ -1,0 +1,12 @@
+{
+  "source": "osm+synthetic",
+  "licence": "OSM: ODbL. Synthetic: project DEMO, not real infrastructure.",
+  "attribution": "\u00a9 OpenStreetMap contributors. Synthetic DEMO points are labelled is_synthetic=true.",
+  "record_count": 161,
+  "osm_count": 65,
+  "synthetic_count": 96,
+  "coverage": "Chennai bounding box ~12.82-13.28 N, 80.08-80.35 E",
+  "is_synthetic": false,
+  "has_synthetic_subset": true,
+  "warning": "OpenCelliD token was not available. OSM rows are real map-tagged masts/towers (not a full cell inventory). Synthetic rows are labelled DEMO and must not be presented as operator sites."
+}
